@@ -7,7 +7,7 @@
 - ⚡ I love watching football and playing games. 
 
 <h3>Connect with me: </h3>
-<a href="https://www.linkedin.com/in/sagar-subramanian-3b2153204/" target="blank"></a><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="40" width="40">
+<a href="https://www.linkedin.com/in/sagar-subramanian-3b2153204/" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="40" width="40"></a>
 
 
 <h3> Languages and Tools : </h3>
